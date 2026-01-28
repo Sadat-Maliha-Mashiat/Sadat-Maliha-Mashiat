@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadat Maliha Mashiat</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=1&uuid=d71aaabe-93d7-4939-a848-088c044efb68&query=Coding+gif"
-
 - 📫 How to reach me **sadatmaliha703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
