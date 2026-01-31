@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadat-maliha-mashiat&show_icons=true&locale=en&layout=compact" alt="sadat-maliha-mashiat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadat-maliha-mashiat&show_icons=true&locale=en" alt="sadat-maliha-mashiat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadat-maliha-mashiat&show_icons=true&locale=en" alt="sadat-maliha-mashiat" /></p> 
